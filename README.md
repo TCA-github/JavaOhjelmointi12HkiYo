@@ -1,3 +1,3 @@
 # JavaOhjelmointi12HkiYo
-Helsingin yliopiston ohjelmoinnin tehtävät Java 1 & 2
+Helsingin yliopiston kevään 2019 ohjelmoinnin tehtävät Java 1 & 2
 Käytössä Netbeans
